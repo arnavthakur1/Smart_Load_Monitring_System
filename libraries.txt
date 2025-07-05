@@ -1,0 +1,10 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+HX711
+ESP-Wifi-Config
+ESP-WiFiSettings
+MQTT Client
+HX711_ADC
+PubSubClient
+Adafruit MQTT Library
